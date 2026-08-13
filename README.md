@@ -41,6 +41,6 @@ I'm focused on writing clean, functional code and continuously improving my craf
 
 ## Get in touch
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://samsongideyportifolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://samsongideyportfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samson-gidey-b5a905303)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://www.t.me/sami_gra)
